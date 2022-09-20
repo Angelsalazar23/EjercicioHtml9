@@ -1,0 +1,39 @@
+
+
+
+.container{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    height: 500px;
+    
+
+
+
+}
+
+
+.btn-modern{
+
+border-radius: 7px;
+width: 30%;
+height: 30px;
+
+transition: transform 0.4s;
+
+
+}
+
+
+
+.btn-modern:hover{
+
+    background-color: #df21b5;
+    color:white;
+    box-shadow: #df21b5;
+    transform: translatey(-5px);
+}
+
+
